@@ -1,0 +1,301 @@
+city,state,Estim_2021,Census_2020,yoy_change,area_sqm
+New York,New York,8467513,8804190,-3.82,29298
+Los Angeles,California,3849297,3898747,-1.27,8304
+Chicago,Illinois,2696555,2746388,-1.81,12061
+Houston,Texas,2288250,2304580,-0.71,3599
+Phoenix,Arizona,1624569,1608139,1.02,3105
+Philadelphia,Pennsylvania,1576251,1603797,-1.72,11933
+San Antonio,Texas,1451853,1434625,1.2,2876
+San Diego,California,1381611,1386932,-0.38,4256
+Dallas,Texas,1288457,1304379,-1.22,3841
+San Jose,California,983489,1013240,-2.94,5683
+Austin,Texas,964177,961855,0.24,3007
+Jacksonville,Florida,954614,949611,0.53,1271
+Fort Worth,Texas,935508,918915,1.81,2646
+Columbus,Ohio,906528,905748,0.09,4117
+Indianapolis,Indiana,882039,887642,-0.63,2455
+Charlotte,North Carolina,879709,874579,0.59,2837
+San Francisco,California,815201,873965,-6.72,18635
+Seattle,Washington,733919,737015,-0.42,8795
+Denver,Colorado,711463,715522,-0.57,4674
+Oklahoma City,Oklahoma,687725,681054,0.98,1123
+Nashville,Tennessee,678851,689447,-1.54,1449
+El Paso,Texas,678415,678815,-0.06,2627
+Washington,District of Columbia,670050,689545,-2.83,11286
+Boston,Massachusetts,654776,675647,-3.09,13989
+Las Vegas,Nevada,646790,641903,0.76,4527
+Portland,Oregon,641162,652503,-1.74,4888
+Detroit,Michigan,632464,639111,-1.04,4608
+Louisville,Kentucky,628594,633045,-0.7,1948
+Memphis,Tennessee,628127,633104,-0.79,2132
+Baltimore,Maryland,576498,585708,-1.57,7240
+Milwaukee,Wisconsin,569330,577222,-1.37,6000
+Albuquerque,New Mexico,562599,564559,-0.35,3014
+Fresno,California,544510,542107,0.44,4706
+Tucson,Arizona,543242,542629,0.11,2252
+Sacramento,California,525041,524943,0.02,5324
+Mesa,Arizona,509475,504258,1.03,3636
+Kansas City,Missouri,508394,508090,0.06,1615
+Atlanta,Georgia,496461,498715,-0.45,3686
+Omaha,Nebraska,487300,486051,0.26,3433
+Colorado Springs,Colorado,483956,478961,1.04,2451
+Raleigh,North Carolina,469124,467665,0.31,3179
+Virginia Beach,Virginia,457672,459470,-0.39,1878
+Long Beach,California,456062,466742,-2.29,9206
+Miami,Florida,439890,442241,-0.53,12284
+Oakland,California,433823,440646,-1.55,7883
+Minneapolis,Minnesota,425336,429954,-1.07,7962
+Tulsa,Oklahoma,411401,413066,-0.4,2091
+Bakersfield,California,407615,403455,1.03,2693
+Wichita,Kansas,395699,397532,-0.46,2454
+Arlington,Texas,392786,394266,-0.38,4111
+Aurora,Colorado,389347,386261,0.8,2413
+Tampa,Florida,387050,384959,0.54,3377
+New Orleans,Louisiana,376971,383997,-1.83,2265
+Cleveland,Ohio,367991,372624,-1.24,4796
+Anaheim,California,345940,346824,-0.25,6895
+Honolulu,Hawaii,345510,350964,-1.55,5801
+Henderson,Nevada,322178,317610,1.44,2991
+Stockton,California,322120,320804,0.41,5158
+Lexington,Kentucky,321793,322570,-0.24,1137
+Corpus Christi,Texas,317773,317863,-0.03,1960
+Riverside,California,317261,314998,0.72,3879
+Santa Ana,California,309441,310227,-0.25,11364
+Orlando,Florida,309154,307573,0.51,2781
+Irvine,California,309031,307670,0.44,4690
+Cincinnati,Ohio,308935,309317,-0.12,3976
+Newark,New Jersey,307220,311549,-1.39,12927
+Saint Paul,Minnesota,307193,311527,-1.39,5991
+Pittsburgh,Pennsylvania,300431,302971,-0.84,5469
+Greensboro,North Carolina,298263,299035,-0.26,2307
+St. Louis,Missouri,293310,301578,-2.74,4888
+Lincoln,Nebraska,292657,291082,0.54,2979
+Plano,Texas,288253,285494,0.97,3982
+Anchorage,Alaska,288121,291247,-1.07,171
+Durham,North Carolina,285527,283506,0.71,2513
+Jersey City,New Jersey,283927,292449,-2.91,19894
+Chandler,Arizona,279458,275987,1.26,4226
+Chula Vista,California,277220,275487,0.63,5554
+Buffalo,New York,276807,278349,-0.55,6890
+North Las Vegas,Nevada,274133,262527,4.42,2592
+Gilbert,Arizona,273136,267918,1.95,3906
+Madison,Wisconsin,269196,269840,-0.24,3390
+Reno,Nevada,268851,264165,1.77,2428
+Toledo,Ohio,268508,270871,-0.87,3365
+Fort Wayne,Indiana,265974,263886,0.79,2384
+Lubbock,Texas,260993,257141,1.5,1910
+St. Petersburg,Florida,258201,258308,-0.04,4180
+Laredo,Texas,256153,255205,0.37,2396
+Irving,Texas,254198,256684,-0.97,3831
+Chesapeake,Virginia,251269,249422,0.74,737
+Winston-Salem,North Carolina,250320,249545,0.31,1881
+Glendale,Arizona,249630,248325,0.53,4031
+Scottsdale,Arizona,242753,241361,0.58,1312
+Garland,Texas,242035,246018,-1.62,4309
+Boise,Idaho,237446,235684,0.75,2806
+Norfolk,Virginia,235089,238005,-1.23,4465
+Spokane,Washington,229071,228989,0.04,3328
+Fremont,California,227514,230504,-1.3,2944
+Richmond,Virginia,226604,226610,0,3783
+Santa Clarita,California,224593,228673,-1.78,3230
+San Bernardino,California,222203,222101,0.05,3577
+Baton Rouge,Louisiana,222185,227470,-2.32,2636
+Hialeah,Florida,220490,223109,-1.17,10329
+Tacoma,Washington,219205,219346,-0.06,4413
+Modesto,California,218771,218464,0.14,5081
+Port St. Lucie,Florida,217523,204851,6.19,1719
+Huntsville,Alabama,216963,215006,0.91,986
+Des Moines,Iowa,212031,214133,-0.98,2428
+Moreno Valley,California,211600,208634,1.42,4067
+Fontana,California,210761,208393,1.14,4835
+Frisco,Texas,210719,200509,5.09,2923
+Rochester,New York,210606,211328,-0.34,5903
+Yonkers,New York,209530,211569,-0.96,11754
+Fayetteville,North Carolina,208778,208501,0.13,1406
+Worcester,Massachusetts,205918,206518,-0.29,5522
+Columbus,Georgia,205617,206922,-0.63,956
+Cape Coral,Florida,204510,194016,5.41,1830
+McKinney,Texas,202690,195308,3.78,2915
+Little Rock,Arkansas,201998,202591,-0.29,1688
+Oxnard,California,201879,202063,-0.09,7625
+Amarillo,Texas,201234,200393,0.42,1959
+Augusta,Georgia,201196,202081,-0.44,668
+Salt Lake City,Utah,200478,199723,0.38,1811
+Montgomery,Alabama,198665,200603,-0.97,1255
+Birmingham,Alabama,197575,200733,-1.57,1366
+Grand Rapids,Michigan,197416,198917,-0.75,4440
+Grand Prairie,Texas,197347,196100,0.64,2701
+Overland Park,Kansas,197106,197238,-0.07,2623
+Tallahassee,Florida,197102,196169,0.48,1944
+Huntington Beach,California,196652,198711,-1.04,7360
+Sioux Falls,South Dakota,196528,192517,2.08,2434
+Peoria,Arizona,194917,190985,2.06,1085
+Knoxville,Tennessee,192648,190740,1,1933
+Glendale,California,192366,196543,-2.13,6444
+Vancouver,Washington,192169,190915,0.66,3920
+Providence,Rhode Island,189692,190934,-0.65,10377
+Akron,Ohio,189347,190469,-0.59,3077
+Brownsville,Texas,187831,186738,0.59,1420
+Mobile,Alabama,184952,187041,-1.12,1341
+Newport News,Virginia,184587,186247,-0.89,2699
+Tempe,Arizona,184118,180587,1.96,4526
+Shreveport,Louisiana,184021,187593,-1.9,1740
+Chattanooga,Tennessee,182113,181099,0.56,1272
+Fort Lauderdale,Florida,181668,182760,-0.6,5282
+Aurora,Illinois,179266,180542,-0.71,4012
+Elk Grove,California,178997,176124,1.63,4193
+Ontario,California,177963,175265,1.54,3505
+Salem,Oregon,177723,175535,1.25,3597
+Cary,North Carolina,176987,174721,1.3,2951
+Santa Rosa,California,176938,178127,-0.67,4191
+Rancho Cucamonga,California,175142,174453,0.39,4350
+Eugene,Oregon,175096,176654,-0.88,3997
+Oceanside,California,172982,174068,-0.62,4215
+Clarksville,Tennessee,170957,166722,2.54,1677
+Garden Grove,California,170488,171949,-0.85,9553
+Lancaster,California,170150,173516,-1.94,1840
+Springfield,Missouri,169724,169176,0.32,2053
+Pembroke Pines,Florida,169391,171178,-1.04,5235
+Fort Collins,Colorado,168538,169810,-0.75,2969
+Palmdale,California,165761,169450,-2.18,1597
+Salinas,California,162791,163542,-0.46,6959
+Hayward,California,159827,162954,-1.92,3558
+Corona,California,159743,157136,1.66,3938
+Paterson,New Jersey,157794,159732,-1.21,19016
+Murfreesboro,Tennessee,157519,152769,3.11,2429
+Macon,Georgia,156762,157346,-0.37,631
+Lakewood,Colorado,156605,155984,0.4,3586
+Killeen,Texas,156261,153095,2.07,2794
+Springfield,Massachusetts,154789,155929,-0.73,4888
+Alexandria,Virginia,154706,159467,-2.99,10702
+Kansas City,Kansas,154545,156607,-1.32,1256
+Sunnyvale,California,152258,155805,-2.28,7050
+Hollywood,Florida,152131,153067,-0.61,5607
+Roseville,California,151901,147773,2.79,3351
+Charleston,South Carolina,151612,150227,0.92,1309
+Escondido,California,150665,151038,-0.25,4049
+Joliet,Illinois,150372,150362,0.01,2331
+Jackson,Mississippi,149761,153701,-2.56,1376
+Bellevue,Washington,149440,151854,-1.59,4533
+Surprise,Arizona,149191,143148,4.22,1298
+Naperville,Illinois,149104,149540,-0.29,3825
+Pasadena,Texas,148626,151950,-2.19,3477
+Pomona,California,148338,151713,-2.22,6596
+Bridgeport,Connecticut,148333,148654,-0.22,9233
+Denton,Texas,148146,139869,5.92,1451
+Rockford,Illinois,147711,148655,-0.64,2305
+Mesquite,Texas,147691,150108,-1.61,3095
+Savannah,Georgia,147088,147780,-0.47,1384
+Syracuse,New York,146103,148620,-1.69,5921
+McAllen,Texas,143920,142210,1.2,2283
+Torrance,California,143600,147067,-2.36,7174
+Olathe,Kansas,143014,141290,1.22,2283
+Visalia,California,142978,141384,1.13,3730
+Thornton,Colorado,142610,141867,0.52,3952
+Fullerton,California,141874,143617,-1.21,6411
+Gainesville,Florida,140398,141085,-0.49,2232
+Waco,Texas,139594,138486,0.8,1561
+West Valley City,Utah,139110,140230,-0.8,3917
+Warren,Michigan,138130,139387,-0.9,4052
+Hampton,Virginia,137746,137148,0.44,2663
+Dayton,Ohio,137571,137644,-0.05,2467
+Columbia,South Carolina,137541,136632,0.67,999
+Orange,California,137264,139911,-1.89,5444
+Cedar Rapids,Iowa,136467,137710,-0.9,1910
+Stamford,Connecticut,136309,135470,0.62,3603
+Victorville,California,135950,134810,0.85,1829
+Pasadena,California,135732,138699,-2.14,6030
+Elizabeth,New Jersey,135407,137298,-1.38,11162
+New Haven,Connecticut,135081,134023,0.79,7167
+Miramar,Florida,135077,134721,0.26,4662
+Kent,Washington,134835,136588,-1.28,4041
+Sterling Heights,Michigan,133269,134346,-0.8,3691
+Carrollton,Texas,133251,133434,-0.14,3636
+Coral Springs,Florida,132822,134394,-1.17,5869
+Midland,Texas,131325,132524,-0.9,1755
+Norman,Oklahoma,128097,128026,0.06,716
+Athens-Clarke County,Georgia,127358,127315,0.03,1095
+Santa Clara,California,127151,127647,-0.39,6975
+Columbia,Missouri,126853,126254,0.47,1899
+Fargo,North Dakota,126748,125990,0.6,2530
+Pearland,Texas,125990,125828,0.13,2584
+Simi Valley,California,125975,126356,-0.3,3045
+Topeka,Kansas,125963,126587,-0.49,2062
+Meridian,Idaho,125963,117635,7.08,3351
+Allentown,Pennsylvania,125944,125845,0.08,7150
+Thousand Oaks,California,125754,126966,-0.95,2296
+Abilene,Texas,125070,125182,-0.09,1173
+Vallejo,California,124886,126090,-0.95,4148
+Concord,California,124074,125410,-1.07,4098
+Round Rock,Texas,123876,119468,3.69,3177
+Arvada,Colorado,123436,124402,-0.78,3198
+Clovis,California,122989,120124,2.39,4729
+Palm Bay,Florida,122942,119760,2.66,1386
+Independence,Missouri,122088,123011,-0.75,1577
+Lafayette,Louisiana,121771,121374,0.33,2175
+Ann Arbor,Michigan,121536,123851,-1.87,4392
+Rochester,Minnesota,121465,121395,0.06,2187
+Hartford,Connecticut,120576,121054,-0.39,6957
+College Station,Texas,120019,120511,-0.41,2354
+Fairfield,California,119705,119881,-0.15,2882
+Wilmington,North Carolina,117643,115451,1.9,2246
+North Charleston,South Carolina,117472,114852,2.28,1480
+Billings,Montana,117445,117116,0.28,2614
+West Palm Beach,Florida,117286,117415,-0.11,2182
+Berkeley,California,117145,124321,-5.77,11954
+Cambridge,Massachusetts,117090,118403,-1.11,18500
+Clearwater,Florida,116674,117292,-0.53,4494
+West Jordan,Utah,116541,116961,-0.36,3621
+Evansville,Indiana,116486,117298,-0.69,2475
+Richardson,Texas,116382,119469,-2.58,4177
+Broken Arrow,Oklahoma,116330,113540,2.46,1802
+Richmond,California,115639,116448,-0.69,3869
+League City,Texas,115595,114392,1.05,2230
+Manchester,New Hampshire,115462,115644,-0.16,3494
+Lakeland,Florida,115425,112641,2.47,1702
+Carlsbad,California,115302,114746,0.48,3036
+Antioch,California,114794,115291,-0.43,3948
+Westminster,Colorado,114561,116317,-1.51,3681
+High Point,North Carolina,114086,114059,0.02,2022
+Provo,Utah,114084,115162,-0.94,2762
+Lowell,Massachusetts,113994,115554,-1.35,8497
+Elgin,Illinois,113911,114797,-0.77,3021
+Waterbury,Connecticut,113811,114403,-0.52,4014
+Springfield,Illinois,113394,114394,-0.87,1872
+Gresham,Oregon,113103,114247,-1,4862
+Murrieta,California,112991,110949,1.84,3302
+Lewisville,Texas,112944,111822,1,3022
+Las Cruces,New Mexico,112914,111385,1.37,1448
+Lansing,Michigan,112684,112644,0.04,2881
+Beaumont,Texas,112556,115282,-2.36,1397
+Odessa,Texas,112483,114428,-1.7,2239
+Pueblo,Colorado,112368,111876,0.44,2019
+Peoria,Illinois,111666,113150,-1.31,2357
+Downey,California,111645,114355,-2.37,9222
+Pompano Beach,Florida,111348,112046,-0.62,4669
+Miami Gardens,Florida,110867,111640,-0.69,6134
+Temecula,California,110846,110003,0.77,2949
+Everett,Washington,110812,110629,0.17,3332
+Costa Mesa,California,110750,111918,-1.04,7083
+San Buenaventura (Ventura),California,109925,110763,-0.76,5058
+Sparks,Nevada,109796,108445,1.25,2979
+Santa Maria,California,109711,109707,0,4812
+Sugar Land,Texas,109373,111026,-1.49,2741
+Greeley,Colorado,109323,108795,0.49,2225
+South Fulton,Georgia,108575,107436,1.06,1261
+Dearborn,Michigan,108420,109976,-1.41,4544
+Concord,North Carolina,107697,105240,2.33,1657
+Tyler,Texas,107192,105995,1.13,1843
+Sandy Springs,Georgia,107180,108080,-0.83,2867
+West Covina,California,107017,109501,-2.27,6844
+Green Bay,Wisconsin,107015,107395,-0.35,2360
+Centennial,Colorado,106966,108418,-1.34,3650
+Jurupa Valley,California,106941,105053,1.8,2449
+El Monte,California,106907,109450,-2.32,11401
+Allen,Texas,106874,104627,2.15,3963
+Hillsboro,Oregon,106633,106447,0.17,4142
+Menifee,California,106401,102527,3.78,2205
+Nampa,Idaho,106186,100200,5.97,2991
+Spokane Valley,Washington,105905,102976,2.84,2731
+Rio Rancho,New Mexico,105834,104046,1.72,1006
+Brockton,Massachusetts,105446,105643,-0.19,4960

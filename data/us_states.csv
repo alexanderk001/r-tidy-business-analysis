@@ -1,0 +1,51 @@
+"state_id","name","capital","largest_city","admission_date","population","land_area","water_area","representatives"
+"AL ","Alabama","Montgomery ","Huntsville ","Dec 14, 1819 ",5024279,131171,4597,7
+"AK ","Alaska","Juneau ","Anchorage ","Jan 3, 1959 ",733391,1477953,245384,1
+"AZ ","Arizona","Phoenix ","Phoenix","Feb 14, 1912 ",7151502,294207,1026,9
+"AR ","Arkansas","Little Rock ","Little Rock","Jun 15, 1836 ",3011524,134771,2961,4
+"CA ","California","Sacramento ","Los Angeles ","Sep 9, 1850 ",39538223,403466,20501,53
+"CO "," Colorado ","Denver ","Denver","Aug 1, 1876 ",5773714,268431,1170,7
+"CT "," Connecticut ","Hartford ","Bridgeport ","Jan 9, 1788 ",3605944,12542,1816,5
+"DE "," Delaware ","Dover ","Wilmington ","Dec 7, 1787 ",989948,5047,1399,1
+"FL "," Florida ","Tallahassee ","Jacksonville ","Mar 3, 1845 ",21538187,138887,31424,27
+"GA "," Georgia ","Atlanta ","Atlanta","Jan 2, 1788 ",10711908,148959,4951,14
+"HI "," Hawaii ","Honolulu ","Honolulu","Aug 21, 1959 ",1455271,16635,11678,2
+"ID "," Idaho ","Boise ","Boise","Jul 3, 1890 ",1839106,214045,2398,2
+"IL "," Illinois ","Springfield ","Chicago ","Dec 3, 1818 ",12812508,143793,6202,18
+"IN "," Indiana ","Indianapolis ","Indianapolis","Dec 11, 1816 ",6785528,92789,1537,9
+"IA "," Iowa ","Des Moines ","Des Moines","Dec 28, 1846 ",3190369,144669,1077,4
+"KS "," Kansas ","Topeka ","Wichita ","Jan 29, 1861 ",2937880,211754,1346,4
+"KY "," Kentucky","Frankfort ","Louisville ","Jun 1, 1792 ",4505836,102269,2387,6
+"LA "," Louisiana ","Baton Rouge ","New Orleans ","Apr 30, 1812 ",4657757,111898,23761,6
+"ME "," Maine ","Augusta ","Portland ","Mar 15, 1820 ",1362359,79883,11750,2
+"MD "," Maryland ","Annapolis ","Baltimore ","Apr 28, 1788 ",6177224,25142,6990,8
+"MA ","Massachusetts","Boston ","Boston","Feb 6, 1788 ",7029917,20202,7134,9
+"MI "," Michigan ","Lansing ","Detroit ","Jan 26, 1837 ",10077331,146435,104052,14
+"MN "," Minnesota ","St. Paul ","Minneapolis ","May 11, 1858 ",5706494,206232,18930,8
+"MS "," Mississippi ","Jackson ","Jackson","Dec 10, 1817 ",2961279,121531,3907,4
+"MO "," Missouri ","Jefferson City ","Kansas City ","Aug 10, 1821 ",6154913,178040,2501,8
+"MT "," Montana ","Helena ","Billings ","Nov 8, 1889 ",1084225,376962,3869,1
+"NE "," Nebraska ","Lincoln ","Omaha ","Mar 1, 1867 ",1961504,198974,1356,3
+"NV "," Nevada ","Carson City ","Las Vegas ","Oct 31, 1864 ",3104614,284332,2048,4
+"NH "," New Hampshire ","Concord ","Manchester ","Jun 21, 1788 ",1377529,23187,1027,2
+"NJ "," New Jersey ","Trenton ","Newark ","Dec 18, 1787 ",9288994,19047,3544,12
+"NM "," New Mexico ","Santa Fe ","Albuquerque ","Jan 6, 1912 ",2117522,314161,757,3
+"NY "," New York ","Albany ","New York City ","Jul 26, 1788 ",20201249,122057,19240,27
+"NC "," North Carolina ","Raleigh ","Charlotte ","Nov 21, 1789 ",10439388,125920,13471,13
+"ND "," North Dakota ","Bismarck ","Fargo ","Nov 2, 1889 ",779094,178711,4397,1
+"OH "," Ohio ","Columbus ","Columbus","Mar 1, 1803 ",11799448,105829,10269,16
+"OK "," Oklahoma ","Oklahoma City ","Oklahoma City","Nov 16, 1907 ",3959353,177660,3377,5
+"OR "," Oregon ","Salem ","Portland ","Feb 14, 1859 ",4237256,248608,6191,5
+"PA "," Pennsylvania ","Harrisburg ","Philadelphia ","Dec 12, 1787 ",13002700,115883,3397,18
+"RI "," Rhode Island ","Providence ","Providence","May 29, 1790 ",1097379,2678,1324,2
+"SC "," South Carolina ","Columbia ","Charleston ","May 23, 1788 ",5118425,77857,5076,7
+"SD "," South Dakota ","Pierre ","Sioux Falls ","Nov 2, 1889 ",886667,196350,3379,1
+"TN "," Tennessee ","Nashville ","Nashville","Jun 1, 1796 ",6910840,106798,2355,9
+"TX "," Texas ","Austin ","Houston ","Dec 29, 1845 ",29145505,676587,19075,36
+"UT "," Utah ","Salt Lake City ","Salt Lake City","Jan 4, 1896 ",3271616,212818,7064,4
+"VT "," Vermont ","Montpelier ","Burlington ","Mar 4, 1791 ",643077,23871,1035,1
+"VA "," Virginia","Richmond ","Virginia Beach ","Jun 25, 1788 ",8631393,102279,8508,11
+"WA "," Washington ","Olympia ","Seattle ","Nov 11, 1889 ",7705281,172119,12542,10
+"WV "," West Virginia ","Charleston ","Charleston ","Jun 20, 1863 ",1793716,62259,497,3
+"WI "," Wisconsin ","Madison ","Milwaukee ","May 29, 1848 ",5893718,140268,29367,8
+"WY "," Wyoming ","Cheyenne ","Cheyenne","Jul 10, 1890 ",576851,251470,1864,1
